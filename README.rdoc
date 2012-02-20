@@ -1,4 +1,4 @@
-= Nifty Generators
+liyifan= Nifty Generators
 
 A collection of useful Rails generator scripts for scaffolding, layout files, authentication, and more.
 
